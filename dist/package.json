@@ -1,0 +1,39 @@
+{
+  "name": "ngx-slick-carousel",
+  "version": "0.4.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leo6104/ngx-slick-carousel"
+  },
+  "author": {
+    "name": "leo6104",
+    "email": "heo@mapiacompany.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo6104/ngx-slick-carousel/issues"
+  },
+  "module": "fesm5/ngx-slick-carousel.js",
+  "typings": "ngx-slick-carousel.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^6.0.0 || ^7.0.0",
+    "@angular/common": "^6.0.0 || ^7.0.0",
+    "@angular/forms": "^6.0.0 || ^7.0.0",
+    "rxjs": "^6.0.0",
+    "zone.js": "^0.8.26"
+  },
+  "main": "bundles/ngx-slick-carousel.umd.js",
+  "es2015": "fesm2015/ngx-slick-carousel.js",
+  "esm5": "esm5/ngx-slick-carousel.js",
+  "esm2015": "esm2015/ngx-slick-carousel.js",
+  "fesm5": "fesm5/ngx-slick-carousel.js",
+  "fesm2015": "fesm2015/ngx-slick-carousel.js",
+  "metadata": "ngx-slick-carousel.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
