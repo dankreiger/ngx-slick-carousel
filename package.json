@@ -1,7 +1,7 @@
 {
   "name": "ngx-slick-carousel",
   "version": "0.4.5",
-  "main": "./dist/index.js",
+  "main": "./dist/bundles.ngx-slick-carousel.umd.js",
   "scripts": {
     "build": "ng build ngx-slick-carousel",
     "docs": "npm run docs:build",
